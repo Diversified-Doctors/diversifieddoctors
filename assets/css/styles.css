@@ -6,3 +6,12 @@
   justify-content: center!important;
 }
 
+.border-0 {
+  border: 0!important;
+}
+
+a {
+  color: var(--bs-link-color);
+  text-decoration: none;
+}
+
